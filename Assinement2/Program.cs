@@ -40,7 +40,7 @@ namespace Test
                 }
             }
              Console.WriteLine();
-            Console.WriteLine("maximum"+"="+max);
+            Console.WriteLine("maximum" + "=" + max);
             if (max == 9)
             {
                 max = max - 1;
