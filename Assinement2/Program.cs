@@ -43,7 +43,7 @@ namespace Test
             Console.WriteLine("maximum" + "=" + max);
             if (max == 9)
             {
-                max = max - 1;
+                max = max - 13;
             }
 
 
