@@ -43,7 +43,7 @@ namespace Test
             Console.WriteLine("maximum" + "=" + max);
             if (max == 9)
             {
-                max = max - 13;
+                max = max-1;
             }
 
 
@@ -60,7 +60,7 @@ namespace Test
                 }
             }
 
-               // Console.Write( + min);
+                Console.Write( + min);
             
 
                 Console.WriteLine(  + min * m);
